@@ -1,5 +1,6 @@
-<h2 align="left">Hi 👋! My name is Joyce Cheung and I'm a  Frontend Web developer, from London</h2>
+<h2 align="left">Hi 👋! My name is Joyce Cheung </h2>
 
+<h3>I am a Frontend Web developer from London</h3>
 ###
 
 <img align="right" height="150" src="https://media.tenor.com/images/c532a69a5978f7cfb2fc2b6ab24ebcfe/tenor.gif"  />
