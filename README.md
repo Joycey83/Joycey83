@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Joyce Cheung </h2>
+<h2 align="left">Hi 👋! My name is Joyce</h2>
 
 <h3>I am a Frontend Web developer from London</h3>
 ###
