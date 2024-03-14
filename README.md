@@ -13,7 +13,6 @@
 
 <p align="left">✨ Creating beautiful and Interactive applications.<br>📚 I'm currently learning Python, HTML5 Canvas, React.js, tailwind CSS</p>
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
