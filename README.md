@@ -8,7 +8,7 @@
 
 <h2 align="left">About me</h2>
 
-###
+
 
 <p align="left">✨ Creating beautiful and Interactive applications.<br>📚 I'm currently learning Python, HTML5 Canvas, React.js, tailwind CSS</p>
 
