@@ -5,6 +5,9 @@
 
 
 <h2>About me</h2>
+<p align="left">
+  ✨ Creating beautiful and Interactive Applications<br />📚 I'm currently
+  learning Python, React.js, HTML5 Canvas. 
 
 
 <img align="right" height="150" src="https://media.tenor.com/images/c532a69a5978f7cfb2fc2b6ab24ebcfe/tenor.gif"  />
