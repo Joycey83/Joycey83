@@ -1,8 +1,11 @@
 <h2 align="left">Hi 👋! My name is Joyce</h2>
+<h2>Frontend Web Developer from London</h2>
+
+<h2>About me</h2>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media.tenor.com/images/c532a69a5978f7cfb2fc2b6ab24ebcfe/tenor.gif"  />
 
 ###
 
