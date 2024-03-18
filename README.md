@@ -10,7 +10,7 @@
   learning Python, React.js, HTML5 Canvas. 
 
 
-<img align="right" height="150" src="https://media.tenor.com/images/c532a69a5978f7cfb2fc2b6ab24ebcfe/tenor.gif"  />
+<img align="right" height="250" src="https://media.tenor.com/images/c532a69a5978f7cfb2fc2b6ab24ebcfe/tenor.gif"  />
 
 ###
 
@@ -29,10 +29,10 @@
 ###
 
 <div align="left">
-  <a href= "https://www.instagram.com/i_can_code_too/">
+  <a href= "https://www.instagram.com/i_can_code_too/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/joycecheung24/">
+  <a href="https://www.linkedin.com/in/joycecheung24/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
