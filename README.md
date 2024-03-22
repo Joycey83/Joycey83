@@ -1,13 +1,15 @@
 <h2 align="left">Hi 👋! My name is Joyce</h2>
-<p>Frontend Web Developer from London</p>
+
 
 
 
 
 <h2>About me</h2>
 <p align="left">
-  ✨ Creating beautiful and Interactive Applications<br />📚 I'm currently
-  learning Python, React.js, HTML5 Canvas. 
+  I'm Joyce! As an artistic and creative front-end developer living in the heart of London, I pour my passion into every pixel of my work. My keen eye for aesthetics and deep understanding of user experience allows me to craft digital experiences that are visually stunning but also intuitive and engaging.
+
+I love bringing a unique perspective to my projects, thanks to my diverse skill set. Problem-solving is my bread and butter, and I'm always searching for new technologies to learn and incorporate into my work.
+  <p>📚 I'm currently learning Python, React.js, HTML5 Canvas.</p>
 
 
 <img align="right" height="250" src="https://media.tenor.com/images/c532a69a5978f7cfb2fc2b6ab24ebcfe/tenor.gif"  />
