@@ -6,7 +6,7 @@
 
 <h2>About me</h2>
 <p align="left">
-  I'm Joyce! As an artistic and creative front-end developer living in the heart of London, I pour my passion into every pixel of my work. My keen eye for aesthetics and deep understanding of user experience allows me to craft digital experiences that are visually stunning but also intuitive and engaging.
+As an artistic and creative front-end developer living in the heart of London, I pour my passion into every pixel of my work. My keen eye for aesthetics and deep understanding of user experience allows me to craft digital experiences that are visually stunning but also intuitive and engaging.
 
 I love bringing a unique perspective to my projects, thanks to my diverse skill set. Problem-solving is my bread and butter, and I'm always searching for new technologies to learn and incorporate into my work.
   <p>📚 I'm currently learning Python, React.js, HTML5 Canvas.</p>
